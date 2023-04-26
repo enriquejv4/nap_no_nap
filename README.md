@@ -14,5 +14,5 @@ and sleep diaries during the 5 days before the study assessments were made.
 
 We are specifically interested in the results for Bedtime.
 
-Reference: Akacem LD, Simpkin CT, Carskadon MA, Wright KP Jr, Jenni OG, Achermann P, et al. (2015) 
+Reference: Akacem LD, Simpkin CT, Carskadon MA, Wright KP Jr, Jenni OG, Achermann P, et al. (2015). 
 [The Timing of the Circadian Clock and Sleep Differ between Napping and Non-Napping Toddlers.](https://doi.org/10.1371/journal.pone.0125181)
